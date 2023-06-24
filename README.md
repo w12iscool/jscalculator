@@ -1,2 +1,2 @@
 # jscalculator
-Simple JS calculator
+Simple JS calculator. Ignore my bad code.
